@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157586223334",
+    "firebase_url": "https://myfirebaseauthapp-ccf28.firebaseio.com",
+    "project_id": "myfirebaseauthapp-ccf28",
+    "storage_bucket": "myfirebaseauthapp-ccf28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157586223334:android:a912c4941d86db6a",
+        "android_client_info": {
+          "package_name": "com.example.finance2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157586223334-1287jm483ila36g67iklnmlbepdsb1bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCjEF6v8KBFuxSZFpv1T-P6ZFFnHQNB78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157586223334-1287jm483ila36g67iklnmlbepdsb1bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
